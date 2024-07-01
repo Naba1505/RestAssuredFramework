@@ -1,0 +1,12 @@
+18:05:10.862 [main] INFO  api.test.UserTests2 - ***** User Created *****
+18:05:13.752 [main] INFO  api.test.UserTests2 - ***** Get Users *****
+18:05:14.953 [main] INFO  api.test.UserTests2 - ***** User Updated *****
+18:05:16.113 [main] INFO  api.test.UserTests2 - ***** User Deleted *****
+17:54:57.532 [main] INFO  api.test.UserTests - ***** User Created *****
+17:54:58.704 [main] INFO  api.test.UserTests - ***** Get Users *****
+17:54:59.807 [main] INFO  api.test.UserTests - ***** User Updated *****
+17:55:01.038 [main] INFO  api.test.UserTests - ***** User Deleted *****
+16:28:35.867 [main] INFO  api.test.UserTests - ***** User Created *****
+16:28:37.236 [main] INFO  api.test.UserTests - ***** Get Users *****
+16:28:38.532 [main] INFO  api.test.UserTests - ***** User Updated *****
+16:28:39.763 [main] INFO  api.test.UserTests - ***** User Deleted *****
